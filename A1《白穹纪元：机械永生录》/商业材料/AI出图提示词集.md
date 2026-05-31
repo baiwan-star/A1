@@ -80,7 +80,7 @@ face scarred from years of welding and metal work, wearing a heavy
 leather apron covered in oil and burn marks, tool belt around waist
 with wrenches and pliers, standing in a dimly lit workshop filled with
 scrap metal and machinery, blue arc welding light casting dramatic shadows,
-vacuum tube electronic cyberpunk, gritty photorealistic portrait
+vacuum tube electronic cyberpunk, gritty photorealistic portrait全身像
 ```
 
 ### 5. 灰羽（锈网行者 / 黑客）
@@ -91,7 +91,7 @@ fingers replaced with universal data interface ports, portable CRT terminal
 hanging from neck, sitting in a hidden underground den filled with radio
 equipment and tangled wires, multiple CRT screens displaying data streams,
 dim emergency lighting, cluttered space with spare electronic parts,
-vacuum tube electronic cyberpunk, mysterious atmosphere, photorealistic
+vacuum tube electronic cyberpunk, mysterious atmosphere, photorealistic全身像
 ```
 
 ### 6. 炎（觉醒者）
@@ -102,7 +102,7 @@ surgery marks on arms and neck, hollow but determined eyes showing both
 trauma and unwavering will, short unkempt hair, frail body posture but
 standing upright, dim industrial background with metal walls and pipes,
 cold fluorescent light casting harsh shadows, clinical atmosphere,
-vacuum tube electronic cyberpunk, haunting photorealistic portrait
+vacuum tube electronic cyberpunk, haunting photorealistic portrait全身像
 ```
 
 ### 7. 白袍（统合部改革派领袖）
@@ -113,7 +113,7 @@ and thoughtful expression with tired eyes, silver-gray hair neatly combed,
 standing in a stark white titanium office with panoramic window showing
 CRT signal towers at sunset, warm amber light streaming through blinds,
 minimalist but powerful atmosphere, political gravity,
-vacuum tube electronic cyberpunk, cinematic photorealistic portrait
+vacuum tube electronic cyberpunk, cinematic photorealistic portrait全身像
 ```
 
 ### 8. 审查官维拉（思想安全局）
@@ -124,7 +124,7 @@ piercing analytical eyes, standing in a white-walled government corridor,
 carrying a data folder, fluorescent strip lights casting flat even
 light, no decoration on walls, institutional atmosphere, intimidating
 but not villainous, competent and focused demeanor,
-vacuum tube electronic cyberpunk, photorealistic portrait
+vacuum tube electronic cyberpunk, photorealistic portrait全身像
 ```
 
 ---
