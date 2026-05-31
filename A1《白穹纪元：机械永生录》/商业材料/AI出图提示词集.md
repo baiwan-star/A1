@@ -202,7 +202,7 @@ extreme close-up of a titanium wristband terminal with a miniature CRT
 display screen, green glowing digits showing 98500, brass rivets on strap,
 wear marks from years of use, the screen has visible scanlines and slight
 phosphor burn-in, cold fluorescent lighting reflected on glass surface,
-photorealistic macro shot, vacuum tube electronic cyberpunk, detailed metal
+photorealistic macro shot, vacuum tube electronic cyberpunk, detailed metal， pure white background, overall display, rendergraph
 ```  
 
 ### 黄铜数据芯片（P1）
