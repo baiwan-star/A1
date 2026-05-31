@@ -1,0 +1,199 @@
+# 白穹纪元 · BGM & 音效生成方案
+
+> 预算：¥0
+> 工具：Suno AI（免费每日50积分）+ Stable Audio（免费20额度/月）
+> 用时：今晚搞定
+
+---
+
+## 一、工具选型
+
+| 工具 | 免费额度 | 适合做什么 | 注册地址 |
+|------|---------|-----------|---------|
+| **Suno AI** 🥇 | 每天 50 积分 ≈ 10 首 | BGM 主曲、场景音乐 | suno.com |
+| **Stable Audio** | 每月 20 积分 | 纯器乐、环境音、音效 | stableaudio.com |
+| **MyEdit** | 每天免费点数 | 简单配乐、中文友好 | myedit.online |
+
+**推荐路线：** 主力用 Suno 出 BGM，Stable Audio 补音效。全免费，今晚能出完。
+
+---
+
+## 二、BGM 生成清单
+
+一共需要 6 段 BGM，按优先级排列。每段给 Suno 的完整提示词。
+
+### 2.1 白穹城·积分筛选区（P0）
+
+**场景需求：** 精密、重复、低频压迫感。电子管合成器+规律机械节奏。中立色调。
+
+**Suno Prompt：**
+```
+Style: industrial ambient, electronic minimalism, mechanical drone,
+vacuum tube synthesizer, repetitive machine rhythm, low frequency hum,
+cold atmospheric, dystopian soundscape
+
+Instrumentation: analog synthesizer, pipe resonance, distant steam engines,
+muffled machinery, CRT hum, metronomic percussion (80 BPM)
+
+Mood: hypnotic, oppressive but not aggressive, precise like a machine,
+emotionally detached, urban alienation
+
+No melody, no vocals, no orchestral elements
+Length: 3-4 minutes
+```
+
+### 2.2 铁锈带·废土（P0）
+
+**场景需求：** 粗粝、不规则、金属碰撞声。工业金属+环境噪音。
+
+**Suno Prompt：**
+```
+Style: industrial wasteland ambient, dark soundscape, metallic noise,
+scrapyard atmosphere, distorted textures, lo-fi industrial
+
+Instrumentation: scrap metal percussion, rusty gear grinding, wind through
+ruins, distant industrial machinery, crackling static, irregular rhythms,
+distorted guitar drone (very low in mix)
+
+Mood: desolate, raw, survival tension, unpredictable, vast emptiness
+
+Key: no traditional harmony, atonal elements, organic machine noise
+No melody, no vocals, no orchestra
+Length: 3-4 minutes
+```
+
+### 2.3 伊甸核心·收容区（P0）
+
+**场景需求：** 空灵、空洞、近乎死寂。微弱的心跳监测声+液体滴落。
+
+**Suno Prompt：**
+```
+Style: ambient horror, empty space drone, clinical silence, slow motion,
+minimalist dark ambient, isolation soundtrack
+
+Instrumentation: slow heartbeat monitor beep (once per 5 seconds), liquid
+drip echo in metal chamber, distant air circulation hum, barely audible
+breathing, single cello harmonic (very sparse), resonant metal reverb
+
+Mood: dread disguised as peace, sterile emptiness, the silence of death,
+something is wrong but everything looks clean
+
+Extremely sparse, long silences between sounds, unsettling calm
+Length: 3-4 minutes
+```
+
+### 2.4 普通遭遇战·铁锈带战斗（P1）
+
+**场景需求：** 工业金属，冷感。齿轮代替鼓组，蒸汽阀门代替军鼓。
+
+**Suno Prompt：**
+```
+Style: industrial metal, cold mechanical, rhythmic noise, factory combat
+
+Instrumentation: gear-crunch percussion replacing drum kit, steam valve
+explosions replacing snare hits, heavy machinery chug, distorted tube
+guitar single-note riff, low BPM (140-150), repetitive grinding rhythm,
+rusty chain percussion, metal-on-metal impact sounds
+
+Mood: dry friction of rusted gears, survival fight, no heroism,
+just trying to stay alive, brutal efficiency
+
+No melody, no vocals, no orchestral
+Length: 2-3 minutes
+```
+
+### 2.5 统合部追杀战（P1）
+
+**场景需求：** 极其压迫、机械猎杀感。扫描加速声+液压装甲步进。
+
+**Suno Prompt：**
+```
+Style: industrial chase music, mechanical hunter, relentless pursuit,
+high tension electronic, rhythmic terror
+
+Instrumentation: accelerating scan ping (starts slow, speeds up), heavy
+hydraulic step percussion (marching boots multiplied), distorted radio
+transmission static in background, factory alarm tones, mechanical
+breathing (piston-driven), machine-like precision rhythm at 160-180 BPM
+
+Mood: no escape, being hunted by something that never tires, algorithm
+has locked on, cold and methodical
+
+No melody, no rest, no breathing room, cut abruptly at the end
+Length: 2 minutes
+```
+
+### 2.6 中立区·希望之光（P2）
+
+**场景需求：** 微弱温暖，但仍然是机械音色。煤油灯般的温度感。
+
+**Suno Prompt：**
+```
+Style: fragile hope ambient, warm mechanical, gentle industrial, careful optimism
+
+Instrumentation: single vacuum tube synth pad (warm, slightly overdriven),
+distant steam whistle (very faint, like a lullaby), wind chime made from
+salvaged metal, slow heartbeat pulse, coal fire crackle mixed with machine hum
+
+Mood: fragile safety, temporary peace, people trying to build something new,
+hope that could break at any moment but exists right now
+
+Gentle, warm but not sentimental, mechanical but not cold
+Length: 3 minutes
+```
+
+---
+
+## 三、音效（SFX）生成清单
+
+用 **Stable Audio** 生成，简洁描述即可，不需要歌词。共 10 个音效。
+
+### 用 Stable Audio 生成
+
+| 编号 | 音效 | 提示词 | 时长 |
+|------|------|--------|------|
+| SFX01 | ⭐ CRT 启动音 | "CRT monitor power-on, high voltage whine, screen static, electronic beep, vintage equipment boot sequence" | 3-5秒 |
+| SFX02 | 系统提示音 | "single electronic chime, green LED confirmation beep, clean metallic ping, UI notification" | 1秒 |
+| SFX03 | 蒸汽阀门释放 | "steam valve release, pressurized air hiss, industrial pipe vent, metal expansion sound" | 2-3秒 |
+| SFX04 | 机械门锁 | "heavy metal door lock mechanism, gear turn and bolt slide, industrial security door closing" | 2秒 |
+| SFX05 | 流放列车驶过 | "steam locomotive passing at medium distance, rhythmic chugging wheels, train whistle echo, iron wheels on track" | 10-15秒 |
+| SFX06 | 思想确认题警告音 | "warning buzzer, slightly distorted alert tone, system error, CRT monitor flicker sound" | 2秒 |
+| SFX07 | 机械巡逻队脚步 | "synchronized heavy footsteps, military march on metal floor, hydraulic joint movement, group of machines walking in unison" | 10秒 |
+| SFX08 | 焊接声 | "electric arc welding, spark crackle, metal fusion, protective glass shield click, workshop ambience" | 5秒 |
+| SFX09 | 积分刷新音 | "plastic and metal gear clicking, score counter increasing, mechanical register sound, vintage adding machine" | 1秒 |
+| SFX10 | 空旷走廊回声 | "footsteps echoing in long empty metal corridor, reverberation, distant door closing, fluorescent light hum" | 10秒 |
+
+### 备选：如果 Stable Audio 额度不够
+
+有些音效也可以用 Suno 生成：
+> 把提示词改成 "Style: sound effect, [音效描述], short clip, no music, no melody"
+> 然后在 Suno 里选 "Instrumental" 模式
+
+---
+
+## 四、今天晚上的执行计划
+
+| 步骤 | 时间 | 做的事 |
+|------|------|--------|
+| 1 | 10min | 注册 Suno AI（suno.com）+ Stable Audio（stableaudio.com） |
+| 2 | 30min | 用 Suno 跑白穹城 BGM + 铁锈带 BGM + 伊甸核心 BGM（每天50积分够跑6-10首） |
+| 3 | 20min | 用 Stable Audio 跑音效 SFX01-10（每月20积分，够用） |
+| 4 | 20min | 听一遍，挑好的下载，重跑不满意的 |
+
+### 小技巧
+- Suno 每生成一次出 2 个版本，相当于一次消耗 5 积分试 2 个方案
+- 不满意就点 "Create" 再加点描述重新跑，不用省积分
+- 下载格式选 MP3（兼容性最好），存到 `08-听觉音乐\generated\` 下
+- 文件名规则：`BGM_区域名_版本号.mp3` / `SFX_音效名.mp3`
+
+---
+
+## 五、关于商用版权
+
+| 工具 | 免费版可商用？ |
+|------|--------------|
+| Suno AI | ❌ 免费版不可商用，Pro $10/月后可商用 |
+| Stable Audio | ❌ 免费版不可商用，Pro $12/月后可商用 |
+| MyEdit | ✅ 免费版可商用 |
+
+**建议：** 今晚先用免费版出 demo 听效果，后续决定要用的话再开一个月 Pro（$10-$12），把所有成品一次性下好带商用授权。
