@@ -46,7 +46,7 @@ expression, deep brown eyes with a calm scrutinizing gaze, standing in
 a cramped standardized apartment, CRT terminal on desk with green text display,
 left wrist wearing a titanium alloy bracelet terminal, dim fluorescent
 ceiling lights, beige metal walls with exposed pipe conduits,
-vacuum tube electronic cyberpunk, photorealistic, cinematic portrait
+vacuum tube electronic cyberpunk, photorealistic, cinematic portrait加亚洲面孔，全身像
 ```
 
 ### 2. 韩序（被流放的同事）
@@ -56,7 +56,7 @@ few strands out of place, thoughtful expression with a hint of stubbornness,
 standing in a dimly lit apartment with books scattered on a metal desk,
 open book on old world civilization, CRT terminal displaying news broadcast,
 tired but alert eyes, warm ambient light from monitor glow,
-vacuum tube electronic cyberpunk, photorealistic portrait
+vacuum tube electronic cyberpunk, photorealistic portrait加亚洲面孔，全身像
 ```
 
 ### 3. 韩执（神经接驳者 / 韩序的哥哥）
@@ -68,7 +68,7 @@ thin face with deep eye creases from long-term neural connection,
 wearing a gray maintenance engineer uniform, sitting in a cramped
 terminal room with a round porthole window showing gray sky,
 green data stream reflecting in his pupils, dim industrial lighting,
-vacuum tube electronic cyberpunk, photorealistic portrait, intimate
+vacuum tube electronic cyberpunk, photorealistic portrait, intimate加亚洲面孔，全身像
 ```
 
 ### 4. 铁砧（废铁机械师）
