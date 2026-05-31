@@ -22,9 +22,11 @@
 
 一共需要 6 段 BGM，按优先级排列。每段给 Suno 的完整提示词。
 
-### 2.1 白穹城·积分筛选区（P0）
+### 2.1 白穹城·积分筛选区（P0）（已完成第一版）suno.com
 
 **场景需求：** 精密、重复、低频压迫感。电子管合成器+规律机械节奏。中立色调。
+
+"D:\OpenClaw专属文件夹\A1\A1《白穹纪元：机械永生录》\08-听觉音乐\BGM\白穹城·积分筛选区Vacuum Relay.mp3"
 
 **Suno Prompt：**
 ```
@@ -42,9 +44,11 @@ No melody, no vocals, no orchestral elements
 Length: 3-4 minutes
 ```
 
-### 2.2 铁锈带·废土（P0）
+### 2.2 铁锈带·废土（P0）（已完成第一版）suno.com
 
 **场景需求：** 粗粝、不规则、金属碰撞声。工业金属+环境噪音。
+
+"D:\OpenClaw专属文件夹\A1\A1《白穹纪元：机械永生录》\08-听觉音乐\BGM\铁锈带·废土Scrap Horizon.mp3"
 
 **Suno Prompt：**
 ```
@@ -62,9 +66,11 @@ No melody, no vocals, no orchestra
 Length: 3-4 minutes
 ```
 
-### 2.3 伊甸核心·收容区（P0）
+### 2.3 伊甸核心·收容区（P0）（已完成第一版）suno.com
 
 **场景需求：** 空灵、空洞、近乎死寂。微弱的心跳监测声+液体滴落。
+
+"D:\OpenClaw专属文件夹\A1\A1《白穹纪元：机械永生录》\08-听觉音乐\BGM\伊甸核心·收容区White Room Pulse.mp3"
 
 **Suno Prompt：**
 ```
@@ -82,9 +88,11 @@ Extremely sparse, long silences between sounds, unsettling calm
 Length: 3-4 minutes
 ```
 
-### 2.4 普通遭遇战·铁锈带战斗（P1）
+### 2.4 普通遭遇战·铁锈带战斗（P1）（已完成第一版）suno.com
 
 **场景需求：** 工业金属，冷感。齿轮代替鼓组，蒸汽阀门代替军鼓。
+
+"D:\OpenClaw专属文件夹\A1\A1《白穹纪元：机械永生录》\08-听觉音乐\BGM\普通遭遇战·铁锈带战斗Rusted Gear Protocol.mp3"
 
 **Suno Prompt：**
 ```
@@ -102,9 +110,11 @@ No melody, no vocals, no orchestral
 Length: 2-3 minutes
 ```
 
-### 2.5 统合部追杀战（P1）
+### 2.5 统合部追杀战（P1）（已完成第一版）suno.com
 
 **场景需求：** 极其压迫、机械猎杀感。扫描加速声+液压装甲步进。
+
+"D:\OpenClaw专属文件夹\A1\A1《白穹纪元：机械永生录》\08-听觉音乐\BGM\统合部追杀战Locked On Pursuit.mp3"
 
 **Suno Prompt：**
 ```
