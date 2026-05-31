@@ -26,7 +26,7 @@
 
 **场景需求：** 精密、重复、低频压迫感。电子管合成器+规律机械节奏。中立色调。
 
-"D:\OpenClaw专属文件夹\A1\A1《白穹纪元：机械永生录》\08-听觉音乐\BGM\白穹城·积分筛选区Vacuum Relay.mp3"
+"D:\OpenClaw专属文件夹\A1\A1《白穹纪元：机械永生录》\08-听觉音乐\generated\白穹城·积分筛选区Vacuum Relay.mp3"
 
 **Suno Prompt：**
 ```
@@ -48,7 +48,7 @@ Length: 3-4 minutes
 
 **场景需求：** 粗粝、不规则、金属碰撞声。工业金属+环境噪音。
 
-"D:\OpenClaw专属文件夹\A1\A1《白穹纪元：机械永生录》\08-听觉音乐\BGM\铁锈带·废土Scrap Horizon.mp3"
+"D:\OpenClaw专属文件夹\A1\A1《白穹纪元：机械永生录》\08-听觉音乐\generated\铁锈带·废土Scrap Horizon.mp3"
 
 **Suno Prompt：**
 ```
@@ -70,7 +70,7 @@ Length: 3-4 minutes
 
 **场景需求：** 空灵、空洞、近乎死寂。微弱的心跳监测声+液体滴落。
 
-"D:\OpenClaw专属文件夹\A1\A1《白穹纪元：机械永生录》\08-听觉音乐\BGM\伊甸核心·收容区White Room Pulse.mp3"
+"D:\OpenClaw专属文件夹\A1\A1《白穹纪元：机械永生录》\08-听觉音乐\generated\伊甸核心·收容区White Room Pulse.mp3"
 
 **Suno Prompt：**
 ```
@@ -92,7 +92,7 @@ Length: 3-4 minutes
 
 **场景需求：** 工业金属，冷感。齿轮代替鼓组，蒸汽阀门代替军鼓。
 
-"D:\OpenClaw专属文件夹\A1\A1《白穹纪元：机械永生录》\08-听觉音乐\BGM\普通遭遇战·铁锈带战斗Rusted Gear Protocol.mp3"
+"D:\OpenClaw专属文件夹\A1\A1《白穹纪元：机械永生录》\08-听觉音乐\generated\普通遭遇战·铁锈带战斗Rusted Gear Protocol.mp3"
 
 **Suno Prompt：**
 ```
@@ -114,7 +114,7 @@ Length: 2-3 minutes
 
 **场景需求：** 极其压迫、机械猎杀感。扫描加速声+液压装甲步进。
 
-"D:\OpenClaw专属文件夹\A1\A1《白穹纪元：机械永生录》\08-听觉音乐\BGM\统合部追杀战Locked On Pursuit.mp3"
+"D:\OpenClaw专属文件夹\A1\A1《白穹纪元：机械永生录》\08-听觉音乐\generated\统合部追杀战Locked On Pursuit.mp3"
 
 **Suno Prompt：**
 ```
@@ -136,7 +136,8 @@ Length: 2 minutes
 ### 2.6 中立区·希望之光（P2）
 
 **场景需求：** 微弱温暖，但仍然是机械音色。煤油灯般的温度感。
-
+https://www.mureka.ai/song-detail/4k2NhX36EqECwtUXtCW3zj?is_from_share=1&song_title=iron-hearth-pulse&singer=%E7%8E%8B%E5%BE%B5
+https://www.mureka.ai/song-detail/4bJGGhYRQLTRNojs562ip9?is_from_share=1&song_title=iron-hearth-pulse&singer=%E7%8E%8B%E5%BE%B5
 **Suno Prompt：**
 ```
 Style: fragile hope ambient, warm mechanical, gentle industrial, careful optimism
@@ -160,18 +161,18 @@ Length: 3 minutes
 
 ### 用 Stable Audio 生成
 
-| 编号 | 音效 | 提示词 | 时长 |
-|------|------|--------|------|
-| SFX01 | ⭐ CRT 启动音 | "CRT monitor power-on, high voltage whine, screen static, electronic beep, vintage equipment boot sequence" | 3-5秒 |
-| SFX02 | 系统提示音 | "single electronic chime, green LED confirmation beep, clean metallic ping, UI notification" | 1秒 |
-| SFX03 | 蒸汽阀门释放 | "steam valve release, pressurized air hiss, industrial pipe vent, metal expansion sound" | 2-3秒 |
-| SFX04 | 机械门锁 | "heavy metal door lock mechanism, gear turn and bolt slide, industrial security door closing" | 2秒 |
-| SFX05 | 流放列车驶过 | "steam locomotive passing at medium distance, rhythmic chugging wheels, train whistle echo, iron wheels on track" | 10-15秒 |
-| SFX06 | 思想确认题警告音 | "warning buzzer, slightly distorted alert tone, system error, CRT monitor flicker sound" | 2秒 |
-| SFX07 | 机械巡逻队脚步 | "synchronized heavy footsteps, military march on metal floor, hydraulic joint movement, group of machines walking in unison" | 10秒 |
-| SFX08 | 焊接声 | "electric arc welding, spark crackle, metal fusion, protective glass shield click, workshop ambience" | 5秒 |
-| SFX09 | 积分刷新音 | "plastic and metal gear clicking, score counter increasing, mechanical register sound, vintage adding machine" | 1秒 |
-| SFX10 | 空旷走廊回声 | "footsteps echoing in long empty metal corridor, reverberation, distant door closing, fluorescent light hum" | 10秒 |
+| 编号    | 音效        | 提示词                                                                                                                          | 时长     |
+| ----- | --------- | ---------------------------------------------------------------------------------------------------------------------------- | ------ |
+| SFX01 | ⭐ CRT 启动音 | "CRT monitor power-on, high voltage whine, screen static, electronic beep, vintage equipment boot sequence"                  | 3-5秒   |
+| SFX02 | 系统提示音     | "single electronic chime, green LED confirmation beep, clean metallic ping, UI notification"                                 | 1秒     |
+| SFX03 | 蒸汽阀门释放    | "steam valve release, pressurized air hiss, industrial pipe vent, metal expansion sound"                                     | 2-3秒   |
+| SFX04 | 机械门锁      | "heavy metal door lock mechanism, gear turn and bolt slide, industrial security door closing"                                | 2秒     |
+| SFX05 | 流放列车驶过    | "steam locomotive passing at medium distance, rhythmic chugging wheels, train whistle echo, iron wheels on track"            | 10-15秒 |
+| SFX06 | 思想确认题警告音  | "warning buzzer, slightly distorted alert tone, system error, CRT monitor flicker sound"                                     | 2秒     |
+| SFX07 | 机械巡逻队脚步   | "synchronized heavy footsteps, military march on metal floor, hydraulic joint movement, group of machines walking in unison" | 10秒    |
+| SFX08 | 焊接声       | "electric arc welding, spark crackle, metal fusion, protective glass shield click, workshop ambience"                        | 5秒     |
+| SFX09 | 积分刷新音     | "plastic and metal gear clicking, score counter increasing, mechanical register sound, vintage adding machine"               | 1秒     |
+| SFX10 | 空旷走廊回声    | "footsteps echoing in long empty metal corridor, reverberation, distant door closing, fluorescent light hum"                 | 10秒    |
 
 ### 备选：如果 Stable Audio 额度不够
 
@@ -183,12 +184,12 @@ Length: 3 minutes
 
 ## 四、今天晚上的执行计划
 
-| 步骤 | 时间 | 做的事 |
-|------|------|--------|
-| 1 | 10min | 注册 Suno AI（suno.com）+ Stable Audio（stableaudio.com） |
-| 2 | 30min | 用 Suno 跑白穹城 BGM + 铁锈带 BGM + 伊甸核心 BGM（每天50积分够跑6-10首） |
-| 3 | 20min | 用 Stable Audio 跑音效 SFX01-10（每月20积分，够用） |
-| 4 | 20min | 听一遍，挑好的下载，重跑不满意的 |
+| 步骤  | 时间    | 做的事                                                 |
+| --- | ----- | --------------------------------------------------- |
+| 1   | 10min | 注册 Suno AI（suno.com）+ Stable Audio（stableaudio.com） |
+| 2   | 30min | 用 Suno 跑白穹城 BGM + 铁锈带 BGM + 伊甸核心 BGM（每天50积分够跑6-10首） |
+| 3   | 20min | 用 Stable Audio 跑音效 SFX01-10（每月20积分，够用）              |
+| 4   | 20min | 听一遍，挑好的下载，重跑不满意的                                    |
 
 ### 小技巧
 - Suno 每生成一次出 2 个版本，相当于一次消耗 5 积分试 2 个方案
