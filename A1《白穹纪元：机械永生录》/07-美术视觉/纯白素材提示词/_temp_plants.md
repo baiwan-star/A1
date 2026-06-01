@@ -1,0 +1,421 @@
+
+
+---
+
+# 三、植物（50张）
+
+## 模板说明
+```
+[主体描述], isolated on white background, [视角], [光照],
+clean studio lighting, pure white background, no shadow,
+product photography, vacuum tube dieselpunk aesthetic, botanical detail,
+[模型提示], 8k
+
+Negative: background, environment, complex background,
+illustration, painting, watercolor, sketch, 3d render
+```
+
+---
+
+### 3.1 硅晶芒草（3种）
+
+#### 【植物】101. 硅晶芒草·单株
+**提示词：**
+```
+A single stalk of silicon crystal grass, a slender semi-translucent silicon crystal tube growing vertically from ground, 50cm tall, milky white to pale cyan gradient inside like frosted glass, surface refracting tiny rainbow light spots, perfectly straight with slight natural curve at tip, cold glossy texture visible, single isolated plant, isolated on white background, vertical full plant view, bright crystalline lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\01-硅晶芒草.md
+
+#### 【植物】102. 硅晶芒草·丛生
+**提示词：**
+```
+A dense cluster of silicon crystal grass, dozens of semi-translucent crystal stalks growing closely together, varying heights from 30-60cm, each stalk the milky white to pale cyan gradient, the cluster forms a natural fan shape, stalks gently overlapping and crossing, crystal surfaces creating complex light refraction patterns with rainbows at intersection points, base of cluster showing compact root-like crystal formation, isolated on white background, front view of cluster, bright multi-source lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\01-硅晶芒草.md
+
+#### 【植物】103. 硅晶芒草·枯萎
+**提示词：**
+```
+A patch of withered silicon crystal grass, stalks have turned dark purple-gray instead of white, many stalks broken at midpoint with sharp glass-like fractures, some completely snapped at base lying on ground, remaining stalks clouded and opaque no longer translucent, surface rough and pitted from sulfur corrosion, scattered clear crystalline fragments around base from broken pieces, dying plant cluster, isolated on white background, front view of dying cluster, dim sad lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\01-硅晶芒草.md
+
+---
+
+### 3.2 结晶蕨叶（3种）
+
+#### 【植物】104. 结晶蕨叶·展开
+**提示词：**
+```
+A fully unfurled crystal fern frond, a single leaf frond 50cm tall made of semi-translucent pale blue-white silicon crystal, bipinnate structure with symmetrical leaflets on both sides of the central stalk, each leaflet showing intricate internal silver-white metallic vein patterns visible through the crystal surface, the veins catch light with a liquid-silver shimmer, the entire frond rigid and glass-like with faceted crystal texture, isolated on white background, full frond front view, macro botanical detail lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\02-结晶蕨叶.md
+
+#### 【植物】105. 结晶蕨叶·卷曲（未展开幼叶）
+**提示词：**
+```
+A young unfurling crystal fern frond in fiddlehead stage, the frond is tightly curled into a spiral at the tip, the lower portion partially unrolled showing developing leaflets, the crystal is thinner and more translucent than mature fronds, internal silver veins not yet fully formed appearing as faint ghost lines, pale almost transparent white-blue color, delicate and fragile appearance, the spiral catching light with internal refraction, isolated on white background, side view of curled frond, soft gentle lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail macro, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\02-结晶蕨叶.md
+
+#### 【植物】106. 结晶蕨叶·破损
+**提示词：**
+```
+A damaged crystal fern frond, the top half of the frond has broken off completely leaving a clean glass-like fracture, several leaflets on remaining portion chipped or shattered at edges, internal silver veins exposed at break points, broken tip fragment lying at base showing sharp crystalline fracture surface, remaining leaflets still translucent but with stress cracks radiating from damage points, slightly duller surface from environmental exposure, isolated on white background, front view of damaged frond, dramatic damage lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\02-结晶蕨叶.md
+
+---
+
+### 3.3 晶化藤蔓（3种）
+
+#### 【植物】107. 晶化藤蔓·悬挂
+**提示词：**
+```
+A hanging crystal vine, pale green semi-translucent silicon vine dangling vertically as if from an overhead structure, vine body with ring-like nodes every 20cm like bamboo joints, each node producing a single round crystal leaf 5cm diameter paper-thin, vine interior shows a thin silver metallic wire running through the core, leaves are translucent pale green discs, vine end has a tapering tip, isolated on white background, vertical hanging full view, backlit bright lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\03-晶化藤蔓.md
+
+#### 【植物】108. 晶化藤蔓·攀爬
+**提示词：**
+```
+A climbing crystal vine spiraling around a vertical metal pipe support, the pale green translucent vine wraps around the pipe in a loose helix, round crystal leaves extending outward at intervals, some leaves overlapping, vine nodes gripping the pipe surface where contact is made, internal silver wire visible through translucent vine body, leaves clinking together implied by spacing, vine actively growing upward with healthy coloring, isolated on white background showing vine on pipe section, front view of spiral, bright natural lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\03-晶化藤蔓.md
+
+#### 【植物】109. 晶化藤蔓·断裂
+**提示词：**
+```
+A broken crystal vine, the vine has snapped at a node point, the severed end showing the internal silver wire protruding like a exposed nerve, the broken portion droops downward held only by the internal metal wire, leaves on damaged section have lost turgor appearing dull and slightly cloudy, fractured node shows sharp crystalline edges, vine below break still healthy, transitional state between living and dying, isolated on white background, vertical view of break point, dramatic lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\03-晶化藤蔓.md
+
+---
+
+### 3.4 硅晶毒蕈（4种）
+
+#### 【植物】110. 硅晶毒蕈·小型
+**提示词：**
+```
+A small silicon crystal toxic mushroom, height 10cm, cap is dark red semi-translucent crystal with tiny gold speckles scattered across surface, cap half-closed in daytime position, underside shows fine crystal tendrils instead of gills, stem is pale crystalline white with subtle red veining, cap surface has a thin layer of crystal powder visible as frost-like coating, smooth glossy crystal texture, isolated on white background, full front view, macro detail lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\04-硅晶毒蕈.md
+
+#### 【植物】111. 硅晶毒蕈·大型
+**提示词：**
+```
+A large silicon crystal toxic mushroom, height 20cm, cap fully expanded revealing its full span, dark red translucent crystal cap with dense gold speckle pattern, cap edges slightly curled upward, fine crystal tendrils underneath fully visible like a crystal beard, stem thicker at base showing concentric crystal growth rings, powdery coating on cap visible as subtle shimmering layer, mature specimen with rich color saturation, isolated on white background, front view, macro detail lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\04-硅晶毒蕈.md
+
+#### 【植物】112. 硅晶毒蕈·发光（夜间展开）
+**提示词：**
+```
+A fully open glowing crystal toxic mushroom at night, cap completely expanded with faint bioluminescent glow emanating from dark red crystal, gold speckles appear as bright golden points of light against glowing red, crystal tendrils underneath emit a softer greenish phosphorescent glow, whole mushroom radiates dim visible light from within, glow illuminating crystal structure from inside, magical nocturnal appearance, isolated on white background, front view, self-illuminated lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\04-硅晶毒蕈.md
+
+#### 【植物】113. 硅晶毒蕈·有毒色变异
+**提示词：**
+```
+A toxic color variant of silicon crystal mushroom, cap is vivid poisonous purple-red instead of standard dark red, gold speckles replaced with bright sickly green spots, stem shows green streaks, powdery coating more visible as pale green dust, tendrils underneath amber-colored, overall more venomous warning coloration, smaller more compact growth form, visible chemical residue at base, isolated on white background, front view, toxic accent lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\04-硅晶毒蕈.md
+
+---
+
+### 3.5 铁晶阔叶木（3种）
+
+#### 【植物】114. 铁晶阔叶木·幼苗
+**提示词：**
+```
+A seedling iron crystal broadleaf tree, height 50cm, thin reddish-brown trunk of iron-silicate mixture with rough bark-like texture, upper trunk splitting into 3 small crystal branches, each branch bearing 2-3 small rust-colored crystal leaves 5cm long shaped like poplar leaves but completely metallic, leaf edges sharp and slightly serrated, whole plant miniature version of mature tree, delicate young growth, isolated on white background, full tree front view, warm growth lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\05-铁晶阔叶木.md
+
+#### 【植物】115. 铁晶阔叶木·成树
+**提示词：**
+```
+A mature iron crystal broadleaf tree, height 4 meters, thick trunk of reddish-brown to dark purple gradient, trunk surface rough like rusted iron cortex, trunk splits into multiple thick crystal branches at upper third, each branch bearing several large rust-colored metallic crystal leaves 15cm long, leaves thick 3mm metal texture with sharp razor edges, heavy metallic appearance, entire tree looks like an iron crystallized tree, sturdy imposing presence, isolated on white background, full tree front view, dramatic lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\05-铁晶阔叶木.md
+
+#### 【植物】116. 铁晶阔叶木·枯树
+**提示词：**
+```
+A dead iron crystal broadleaf tree, all leaves fallen and lying at base as rust-colored crystal shards, bare skeletal branches reaching upward like twisted metal claws, trunk has lost reddish-purple color becoming dull grey-brown, bark cracked and peeling in sheets, some branches broken leaving jagged crystalline stumps, scattered crystal leaf shards on ground around base, skeleton of a once-mighty tree, isolated on white background, full dead tree front view, atmospheric desolate lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\05-铁晶阔叶木.md
+
+---
+
+### 3.6 锈色苔藓（3种）
+
+#### 【植物】117. 锈色苔藓·薄层
+**提示词：**
+```
+A thin layer of rust-colored moss, growing as a flat crust-like patch across a rock surface, moss appears as thin film of deep rust-red and brown with subtle orange highlights, surface texture velvety and fine, closely adhering to substrate, small irregular patches spreading outward, organic cellular structure visible at macro scale as tiny clustered growth points, isolated on white background showing moss on flat rock fragment, top-down macro view, macro detail lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\06-锈色苔藓.md
+
+#### 【植物】118. 锈色苔藓·厚层
+**提示词：**
+```
+A thick cushion of rust-colored moss, moss has grown into deep spongey layer several centimeters thick, dark reddish-brown at base graduating to brighter rust-orange at growing tips, surface textured with tiny rounded lobes and curling edges, holding moisture in thick layers, some areas showing darker iron-accumulation streaks, moss has heavy presence like rust-colored velvet cushion, isolated on white background, angled top-down view showing thickness, warm macro lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\06-锈色苔藓.md
+
+#### 【植物】119. 锈色苔藓·脱落
+**提示词：**
+```
+A patch of rust-colored moss in process of peeling and falling away from its substrate, large sections of moss layer have cracked and curled upward at edges, dried crispy appearance with edges lifting, exposed underside shows pale dead tissue while top remains rust-red, some sections completely detached lying next to main patch, brittle dried texture, boundary between living moss and dead peeling moss clearly visible, isolated on white background, top-down macro view, dry brittle lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\06-锈色苔藓.md
+
+---
+
+### 3.7 电子辐射花（3种）
+
+#### 【植物】120. 电子辐射花·含苞
+**提示词：**
+```
+An electronic radiation flower bud, tightly closed cluster of semi-translucent crystal petals, bud shape like a delicate glass lantern, pale blue-white crystal with faint blue-white phosphorescent glow already visible through closed petals, slender crystal stem supports bud, central bright crystal core visible as a bright point within closed bud, tiny silver veins visible on bud surface pulsing with faint light, anticipation of blooming, isolated on white background, full plant front view, bioluminescent accent lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\10-电子辐射花.md
+
+#### 【植物】121. 电子辐射花·盛开
+**提示词：**
+```
+An electronic radiation flower in full bloom, several paper-thin semi-translucent crystal petals fully opened in a star-like arrangement, petals glowing with bright blue-white phosphorescent light, edges of petals radiating with silver-blue luminous fringe, center of flower contains brilliant white crystal core like a tiny star, slender crystal stem holds flower upright, entire plant glows with visible light in dim conditions, ethereal luminescent flower, isolated on white background, full bloom front view, self-illuminated lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\10-电子辐射花.md
+
+#### 【植物】122. 电子辐射花·凋零
+**提示词：**
+```
+A dying electronic radiation flower, petals have become translucent and papery, glow has faded to a dim faint blue barely visible, two petals have fallen off lying at stem base, remaining petals curling at edges losing shape, central crystal core dimmed to a pale white pebble, stem bent and weakened, plant returning to inert crystal form as its energy fades, one last faint glow in dying center, isolated on white background, fading flower front view, dim melancholy lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 07-美术视觉\植被地貌\10-电子辐射花.md
+
+---
+
+### 3.8 铁锈荆棘（2种）
+
+#### 【植物】123. 铁锈荆棘·攀附型
+**提示词：**
+```
+Rust thorn vines, thick tangled briar of dark brownish-red woody stems covered in sharp metallic thorns, thorns are rusted iron spikes 2-3cm long, curved like fishhooks, vine stems twisted and intertwined in dense mass, a few small dark greenish-brown leaves scattered among thorns, plant appears as a hostile impenetrable tangle of living barbed wire, thorns have metallic sheen despite rust, isolated on white background, tangled thicket front view, sharp defensive lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+#### 【植物】124. 铁锈荆棘·单枝带倒钩
+**提示词：**
+```
+A single long branch of rust thorn, dark rust-brown woody stem with rough bark texture, studded along its length with metallic thorns of various sizes, largest thorns have backward-facing barbs at tip, a few smaller greenish-brown leaves emerge between thorns, branch tip has sharpest and densest thorn cluster, thorns have dull metallic gleam contrasting with dark stem, isolated on white background, horizontal branch macro view, macro detail lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail macro, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+---
+
+### 3.9 灰烬草（2种）
+
+#### 【植物】125. 灰烬草·完整株
+**提示词：**
+```
+Ash grass, a clump of delicate pale grey-white grass-like plants, each blade extremely thin and fragile-looking, color is pale grey of wood ash, blades brittle and slightly curled, whole plant has fragile desiccated appearance, fine white powdery coating on blades, clump airy and light, easily breakable texture visible, ash-colored plant seems made of solidified smoke, isolated on white background, full clump front view, airy light lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+#### 【植物】126. 灰烬草·随风飘散
+**提示词：**
+```
+Ash grass being dispersed by wind, fragile pale grey-white blades breaking apart at tips, fine ash-like particles and tiny fragments of plant floating away in air as if carried by wind, remaining lower portion of clump still intact, upper portions disintegrating into cloud of pale grey dust particles, some blades completely collapsed, ephemeral and momentary, plant scattering itself like ash, isolated on white background, dynamic dispersal view, airy motion lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+---
+
+### 3.10 设计者发挥（10种额外植物）
+
+#### 【植物】127. 铜芯芦荟
+**提示词：**
+```
+Copper core aloe, a succulent-like plant with thick fleshy leaves made of semi-translucent copper-green silicon crystal, each leaf has a visible copper wire core running through the center, leaf edges lined with small brass-colored teeth, leaves grow in rosette pattern from central base, leaves rigid and glass-like but shaped like succulent leaves, copper core catches light differently than surrounding crystal, isolated on white background, rosette top-down view, warm copper-accent lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, botanical detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+#### 【植物】128. 液压向日葵
+**提示词：**
+```
+Hydraulic sunflower, a mechanical flower with central disc made of a small hydraulic piston assembly in polished brass, surrounded by ring of yellow-amber crystal petals that are gear-tooth shaped, stem is a thin brass pipe with visible joints, flower head can tilt via stem joint, petals have warm amber translucence, center piston has a small CRT display showing a sun icon, fusion of mechanical and botanical forms, isolated on white background, flower head front view, warm golden lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+#### 【植物】129. 蒸汽蕨
+**提示词：**
+```
+Steam fern, a mechanical fern-like plant made of thin brass leaves perforated with tiny holes like a steam grate, central stalk is a small steam pipe with miniature steam vent at tip releasing a tiny wisp of white vapor, brass leaves have patina of verdigris at edges, whole plant warm to touch, subtle steam condensation on leaf surfaces, isolated on white background, full plant side view, warm steamy lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+#### 【植物】130. 齿轮花
+**提示词：**
+```
+Gear flower, petals replaced by overlapping brass gears of graduating sizes nested together, smallest gear at center largest at perimeter, gears have standard gear teeth and central axles arranged in radial floral pattern, stem is threaded rod, leaves are thin metal plates with gear-rack edges, whole flower looks like it could turn and rotate if powered, isolated on white background, flower top-down view, metallic precision lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+#### 【植物】131. CRT苔藓
+**提示词：**
+```
+CRT moss, strange growth covering a surface with hundreds of miniature CRT screens each the size of a fingernail, each tiny screen displays a different shade of static or faint phosphor glow, screens grow clustered together like a moss carpet, thin vines of colored wire connect screens beneath surface, overall effect is a patch of greenish-grey surface that looks like moss from distance but is actually colony of tiny screens, isolated on white background, macro close-up view of patch, electronic ambient lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+#### 【植物】132. 锈色仙人掌
+**提示词：**
+```
+Rust cactus, a cactus-shaped plant with thick cylindrical body made of rusted iron with orange-brown patina, ribs of cactus are vertical steel ridges, spines are sharpened brass wires, top of cactus has a small CRT screen flower that blooms with yellow warning symbol, surface pitted with rust holes showing darker interior, heavy industrial reinterpretation of desert plant, isolated on white background, full plant front view, dry lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+#### 【植物】133. 轴承藤
+**提示词：**
+```
+Bearing vine, creeping vine where leaves are replaced by actual ball bearings of various sizes strung along thin wire tendrils, bearings are polished chrome-steel giving mirror reflections, vine stems are coiled spring-like structures, clusters of bearings hang like grape bunches at intervals, clinking metallic sound implied, sleek smooth industrial plant, isolated on white background, hanging vine view, reflective metallic lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+#### 【植物】134. 焊珠草
+**提示词：**
+```
+Weld bead grass, low-growing grass-like plant where each blade is a thin metal wire ending in a small rounded bead of solidified welding slag, beads vary in color from silver to golden to blue-tinted depending on original weld metal, grass forms a sparse meadow of wire stems with bead tips, beads catch light like tiny jewels, delicate wire stems bend easily, isolated on white background, low cluster front view, sparkling bead lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+#### 【植物】135. 冷凝叶
+**提示词：**
+```
+Condensation leaf, a broad leaf-shaped crystal sheet that constantly collects moisture from air, wide flat translucent blue-white crystal plate with channels etched into surface directing water droplets to stem, beads of water constantly form on crystal surface and trickle along channels, leaf has permanent sheen of moisture, tiny rainbow refractions in each droplet, cool damp plant, isolated on white background, single leaf top-down macro view, water droplet macro lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+#### 【植物】136. 谐波竹
+**提示词：**
+```
+Harmonic bamboo, segmented crystalline bamboo stalks that produce musical tone when wind passes through perforations at each node, each segment hollow pale amber crystal tube with small sound-hole at joint, multiple stalks of different heights create different tones, nodes have brass reinforcement rings, stalks straight and elegant with internal striations visible through translucent amber crystal, musical instrument plant, isolated on white background, clump of stalks vertical view, musical warm lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+---
+
+### 3.11 补充额外植物（再4种，凑满50张）
+
+#### 【植物】137. 晶化地衣
+**提示词：**
+```
+Crystal lichen, crusty growth on rock surface composed of tiny interlocking pale green-white crystal scales, lichen forms irregular circular patches with concentric ring patterns, crystal scales leaf-like overlapping each other like roof tiles, surface has rough mineral texture with subtle green tint, lichen firmly attached to rock substrate, slow-growing ancient appearance, isolated on white background, macro patch view, natural mineral lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, macro detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+#### 【植物】138. 油污浮萍
+**提示词：**
+```
+Oil slick duckweed, small flat circular leaves floating on water surface, each leaf a shallow disc of dark oily iridescent material with rainbow sheen like oil slick on water, leaves smooth glossy and reflective, small clusters of 3-4 leaves connected by thin translucent tendrils, edges of each leaf have slight metallic blue-green sheen, toxic and beautiful aquatic plant, isolated on white background, floating cluster top-down view, iridescent macro lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, macro detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+#### 【植物】139. 晶核藤蔓果
+**提示词：**
+```
+Crystal core vine fruit, vine stem bearing clusters of small round crystal fruits, each fruit a 3cm diameter sphere of translucent amber crystal with visible dark core in center, fruits grow in grape-like clusters, crystal surface smooth and glossy, light refracts through each fruit creating internal rainbows, vine stem pale green crystal with characteristic internal silver wire, mature fruit cluster ready for harvest, isolated on white background, hanging cluster front view, fruit macro lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, macro detail, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
+#### 【植物】140. 机械捕蝇草
+**提示词：**
+```
+Mechanical Venus flytrap, carnivorous plant with hinged jaws made of two brass half-shells with gear teeth along closing edges, inner surface of jaws has tiny trigger hairs that are fine copper wires, base of plant has small steam-powered hydraulic actuator that closes jaws, stem is coiled spring steel, several small leaves are gear-shaped brass plates, jaws open showing inner mechanism, predatory mechanical plant, isolated on white background, jaws-open front view, dangerous mechanical lighting, clean studio lighting, pure white background, no shadow, product photography, vacuum tube dieselpunk aesthetic, 8k
+Negative: background, environment, complex background, illustration, painting, watercolor, sketch, 3d render
+```
+**尺寸：** 4:3
+**设定出处：** 设计者发挥
+
