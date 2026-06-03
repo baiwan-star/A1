@@ -1,37 +1,18 @@
 ============================================================
 Batch SFX Generation Report
 ============================================================
-Time: 2026-06-03 10:29:49
+Time: 2026-06-03 11:15:58
 Model: medium
 Sample rate: 44100Hz
 Negative: music, song, melody, harmony, rhythm, beat, drum, bass, singing, vocal, speech, talking, whisper, voice, choir, noise, static, hiss, crackle, pop, click, electrical noise, ground loop hum, 60hz hum, high frequency hiss, white noise, pink noise, background noise, ambient noise, room noise, electrical interference, microphone noise, preamp noise, tape hiss, vinyl crackle, distortion, overdrive, clipping, low quality audio, muffled sound, distant, far away, excessive reverb, long reverb tail, echo, wind, wind noise, background ambience, room tone, compression artifact, digital artifact, bitcrush, aliasing, encoding noise, telephone quality, radio static, broken speaker, feedback, low rumble, subsonic noise, phasing, flanging
 
-Total tasks: 20
-Success: 20
+Total tasks: 1
+Success: 1
 Failed: 0
-Total generation time: 87.9s
+Total generation time: 21.1s
 
 --- Success ---
-  [001] 白穹城/白穹城-门禁刷卡叮声（成功）  3.4s  345KB
-  [002] 白穹城/白穹城-门禁刷卡叮声（失败）  1.4s  345KB
-  [003] 白穹城/标准公寓-管道热胀冷缩咔嗒  1.3s  345KB
-  [004] 白穹城/标准公寓-配给冰箱门开关  1.3s  345KB
-  [005] 白穹城/标准公寓-加热器烹饪完成提示音  1.3s  345KB
-  [006] 白穹城/标准公寓-闹钟脑机自检嗡鸣  1.3s  517KB
-  [007] 白穹城/标准公寓-自来水（金属管道中流动）  1.4s  861KB
-  [008] 白穹城/标准公寓-制服布料摩擦  1.3s  517KB
-  [009] 白穹城/标准公寓-床板弹簧  1.3s  345KB
-  [010] 白穹城/标准公寓-CRT终端启动（居家版）  1.6s  517KB
-  [011] 白穹城/标准公寓-走廊脚步声（隔音）  1.5s  861KB
-  [012] 白穹城/标准公寓-走廊脚步声（开放）  1.4s  689KB
-  [013] 白穹城/通勤列车-车门气动关闭  1.3s  345KB
-  [014] 白穹城/通勤列车-蒸汽制动嘶声  1.4s  517KB
-  [015] 白穹城/通勤列车-车厢连接处摇晃金属  1.3s  689KB
-  [016] 白穹城/通勤列车-车轮过铁轨接缝节奏  1.7s  1034KB
-  [017] 白穹城/通勤列车-站台广播（电子管放大）  1.4s  861KB
-  [018] 白穹城/通勤列车-票闸刷卡通过声  1.3s  345KB
-  [019] 白穹城/通勤列车-车厢内人群制服摩擦嘈杂  1.7s  1378KB
-  [020] 白穹城/数据审核中心-键盘批量敲击  1.8s  1034KB
-  Total size: 12232KB
+  [272] 特殊事件音效/思想安全局突袭-警告喇叭配合审查  2.4s  689KB
+  Total size: 689KB
 
 ============================================================
