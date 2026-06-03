@@ -27,3 +27,4 @@
 ## 四、文件统计
 
 总文件夹数量：60+ | 总文件数量：200+
+msiexec /i "C:\Users\Administrator\Downloads\Programs\wsl_update_x64.msi" /qn /norestart
