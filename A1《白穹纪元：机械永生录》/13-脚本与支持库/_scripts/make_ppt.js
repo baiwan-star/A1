@@ -112,7 +112,7 @@ function addSlideNum(slide, num) {
   const s = pres.addSlide();
   s.addShape(pres.shapes.RECTANGLE, { x: 0, y: 0, w: 10, h: 5.625, fill: { color: C.bg } });
   s.addText('NOVEL', { x: 0.5, y: 0.3, w: 9, h: 0.5, fontSize: 10, color: C.green, fontFace: 'Courier New', charSpacing: 4 });
-  s.addText('74章 50万字 已全部完成', { x: 0.5, y: 0.8, w: 9, h: 0.5, fontSize: 20, color: C.text, fontFace: 'Arial', bold: true });
+  s.addText('74章 正文约23万字 已全部完成', { x: 0.5, y: 0.8, w: 9, h: 0.5, fontSize: 20, color: C.text, fontFace: 'Arial', bold: true });
   s.addShape(pres.shapes.LINE, { x: 0.5, y: 1.7, w: 9, h: 0, line: { color: C.amber, width: 2 } });
   ['前传', '12章 韩执的故事', C.green].forEach((t, i) => {
     s.addText(t, { x: 0.6, y: i === 0 ? 2.0 : 2.3, w: 2.5, h: 0.3, fontSize: i === 0 ? 10 : 9, color: i === 0 ? C.green : C.textMute, fontFace: 'Arial', bold: i === 0 });
@@ -137,7 +137,7 @@ function addSlideNum(slide, num) {
   const s = pres.addSlide();
   s.addShape(pres.shapes.RECTANGLE, { x: 0, y: 0, w: 10, h: 5.625, fill: { color: C.bg } });
   s.addText('GAME SYSTEMS', { x: 0.5, y: 0.3, w: 9, h: 0.5, fontSize: 10, color: C.green, fontFace: 'Courier New', charSpacing: 4 });
-  s.addText('14个子系统已全部完成设计', { x: 0.5, y: 0.8, w: 9, h: 0.5, fontSize: 20, color: C.text, fontFace: 'Arial', bold: true });
+  s.addText('14个逻辑系统框架已覆盖，核心系统详细设计完成', { x: 0.5, y: 0.8, w: 9, h: 0.5, fontSize: 20, color: C.text, fontFace: 'Arial', bold: true });
   const systems = [
     '战斗系统', 'PVP系统', '制造采集', '任务链', '经济交易',
     '社交公会', '家园系统', '副本系统', '成就排行', '新手引导',
@@ -159,9 +159,9 @@ function addSlideNum(slide, num) {
   s.addText('STATUS', { x: 0.5, y: 0.3, w: 9, h: 0.5, fontSize: 10, color: C.green, fontFace: 'Courier New', charSpacing: 4 });
   s.addText('文字设计阶段已全部完成', { x: 0.5, y: 0.8, w: 9, h: 0.5, fontSize: 20, color: C.text, fontFace: 'Arial', bold: true });
   const items = [
-    ['小说（74章·50万字）', '100%', C.green],
+    ['小说（74章·正文约23万字）', '100%', C.green],
     ['世界观设定（第四版）', '100%', C.green],
-    ['游戏系统设计（14子系统）', '100%', C.green],
+    ['游戏系统设计（14个逻辑系统）', '核心已完成/PVP运营远期', C.amber],
     ['任务设计（13主线+3DLC）', '100%', C.green],
     ['美术设计文字稿（11类）', '100%', C.green],
     ['概念视觉资产', '0%（待启动）', C.accent],
@@ -223,7 +223,7 @@ function addSlideNum(slide, num) {
   s.addText('ROADMAP', { x: 0.5, y: 0.3, w: 9, h: 0.5, fontSize: 10, color: C.green, fontFace: 'Courier New', charSpacing: 4 });
   s.addText('12个月从概念到可玩原型', { x: 0.5, y: 0.8, w: 9, h: 0.5, fontSize: 20, color: C.text, fontFace: 'Arial', bold: true });
   const phases = [
-    ['M1-2', '概念视觉化', '全部概念图+风格指南', '10-20万'],
+    ['M1-2', '概念视觉化', '全部概念图+风格指南', '15-25万'],
     ['M3-6', '垂直切片', '白穹城第一天+铁锈带第一天可玩', '50-80万'],
     ['M7-9', 'Alpha', '前传+主线前半完成度', '80-120万'],
     ['M10-11', 'Beta', '全线整合+测试', '50-80万'],
@@ -252,7 +252,7 @@ function addSlideNum(slide, num) {
   s.addText('已完成', { x: 0.5, y: 1.5, w: 4, h: 0.4, fontSize: 12, color: C.green, fontFace: 'Arial', bold: true });
   s.addText('正在寻找', { x: 5.5, y: 1.5, w: 4, h: 0.4, fontSize: 12, color: C.amber, fontFace: 'Arial', bold: true });
   s.addText('策划/编剧/世界主设 — 1人', { x: 0.5, y: 2.0, w: 4.5, h: 0.4, fontSize: 11, color: C.text, fontFace: 'Arial' });
-  const needs = ['程序/技术合伙人', '概念美术师/AI美术协作', '音乐制作人（外包）', '种子投资（约20-30万）'];
+  const needs = ['程序/技术合伙人', '概念美术师/AI美术协作', '音乐制作人（外包）', '种子投资（概念视觉化15-25万，融资结构另议）'];
   needs.forEach((n, i) => {
     s.addShape(pres.shapes.RECTANGLE, { x: 5.5, y: 2.0 + i * 0.5, w: 0.06, h: 0.35, fill: { color: C.accent } });
     s.addText(n, { x: 5.8, y: 2.0 + i * 0.5, w: 3.7, h: 0.35, fontSize: 12, color: C.text, fontFace: 'Arial' });
@@ -271,7 +271,7 @@ function addSlideNum(slide, num) {
   addSlideNum(s, 13);
 }
 
-const outPath = 'D:\\OpenClaw专属文件夹\\A1\\商业材料\\白穹纪元路演PPT.pptx';
+const outPath = 'D:\\OpenClaw专属文件夹\\A1\\A1《白穹纪元：机械永生录》\\14-商业材料\\白穹纪元路演PPT.pptx';
 pres.writeFile({ fileName: outPath })
   .then(() => console.log('OK: ' + outPath))
   .catch(err => console.error('ERROR:', err));
