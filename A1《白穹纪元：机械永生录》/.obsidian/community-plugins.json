@@ -7,5 +7,6 @@
   "templater-obsidian",
   "dataview",
   "obsidian-custom-attachment-location",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "copilot"
 ]
